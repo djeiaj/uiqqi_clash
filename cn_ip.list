@@ -1,1 +1,3 @@
-IP-CIDR,50.117.27.0/24,no-resolve
+# IP段匹配
+# 国内抖音
+IP-CIDR,38.60.178.93/32,no-resolve
