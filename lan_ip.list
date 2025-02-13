@@ -1,4 +1,2 @@
-# IP段匹配
-# 国内抖音
-IP-CIDR,10.10.10.0/24,no-resolve
 IP-CIDR,11.11.11.0/24,no-resolve
+IP-CIDR,10.10.10.0/24,no-resolve
