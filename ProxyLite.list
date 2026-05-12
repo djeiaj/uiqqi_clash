@@ -1,6 +1,4 @@
-# 代理补充列表
-DOMAIN-SUFFIX,akile.472346.xyz
-DOMAIN-SUFFIX,sgoracle.xinjunyang.xyz
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,emby.wtf
@@ -11,7 +9,10 @@ DOMAIN-SUFFIX,heimuer.xyz
 DOMAIN-SUFFIX,rsfcxq.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-
+# 代理补充列表
+DOMAIN-SUFFIX,akile.472346.xyz
+DOMAIN-SUFFIX,hkhk001.472346.xyz
+DOMAIN-SUFFIX,sgoracle.xinjunyang.xyz
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
