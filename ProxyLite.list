@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,1e100
 # 代理补充列表
 DOMAIN-SUFFIX,akile.472346.xyz
 DOMAIN-SUFFIX,hkhk001.472346.xyz
+DOMAIN-SUFFIX,hkhk002.472346.xyz
 DOMAIN-SUFFIX,sgoracle.xinjunyang.xyz
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
